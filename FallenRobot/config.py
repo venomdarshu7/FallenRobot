@@ -20,9 +20,9 @@ class Config(object):
 
     TOKEN = "6066024987:AAFaqlfZHQdVWvbKhDolsAFe85m_d8KZPfA"  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "http://api.timezonedb.com/v2.1/list-time-zone"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 5658395021  # User id of your telegram account (Must be integer)
+    OWNER_ID = "5658395021"  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
