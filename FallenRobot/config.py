@@ -22,7 +22,7 @@ class Config(object):
 
     TIME_API_KEY = "http://api.timezonedb.com/v2.1/list-time-zone"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = "6737940394"  # User id of your telegram account (Must be integer)
+    OWNER_ID = "6295967055"  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
