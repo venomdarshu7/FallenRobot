@@ -34,7 +34,7 @@ class Config(object):
 
     ALLOW_CHATS = True
     ALLOW_EXCL = True
-    DEL_CMDS = True6472392988:AAFeShFkwXggGxZGolV4rlW6_9lf7qNwBcA
+    DEL_CMDS = True
     INFOPIC = True
     LOAD = []
     NO_LOAD = []
